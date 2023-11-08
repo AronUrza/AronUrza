@@ -10,6 +10,8 @@
 
 Tengo sólidos conocimientos en Estadistica, Finanzas, Machine Learning y Marketing digital.
 
+---
+
 ### Mi red social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronuriartez/) 
@@ -24,7 +26,6 @@ Tengo sólidos conocimientos en Estadistica, Finanzas, Machine Learning y Market
 
 ---
 
-## Hello 👋🏻, welcome to my professional profile my name is Aron
 
 📧 You can contact me directly on Linkedin or send me an email to aron210700@gmail.com
 
