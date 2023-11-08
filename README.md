@@ -8,7 +8,7 @@
 ⁣⁣<br>⁣Estudiante de Estadística Informática. Apasionado por convertir datos en insights significativos. Inmerso en el mundo de la Data 
 👨🏻‍🔬 Actualmente estoy aprendiendo sobre Machine Learning y su aplicacion en los distintos sectores, tambien adquiri conocimientos en SQL y POWER BI en donde aprendi el gran potencial de la data hoy en dia.
 
-> Tengo sólidos conocimientos en Estadistica, Finanzas, Machine Learning y Marketing digital.
+Tengo sólidos conocimientos en Estadistica, Finanzas, Machine Learning y Marketing digital.
 
 ### Mi red social
 
