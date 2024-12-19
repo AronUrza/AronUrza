@@ -1,5 +1,5 @@
 
-![Aron Uriarte - Estadistico Informatico](https://github.com/AronUrza/AUZ/blob/master/GITIMA/AUZ%20UNALM.jpg)
+![Aron Uriarte - Estadistico Informatico](https://github.com/AronUrza/GIT/blob/master/GITIMA/AUZ%20UNALM.png)
 
 
 # 🌟 About Me:
